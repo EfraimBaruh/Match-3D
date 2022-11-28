@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8c32bb676887430287d517bf17f1919, type: 3}
+  m_Name: DefaultLevel
+  m_EditorClassIdentifier: 
+  RowSize: 8
+  ColumnSize: 8
+  dropTypes:
+  - {fileID: 209915616234243923, guid: a7fd546193bfe4a2dbde4a0b03dfb33e, type: 3}
+  - {fileID: 2978394853165701224, guid: 40f4ba952e1b044fa9357df26d65beae, type: 3}
+  - {fileID: 3087640157894206404, guid: 378365155d31d4cfb84a8a579a3f1d7b, type: 3}
+  - {fileID: 182313426043874583, guid: f32355b6d07a14a1ea2c72e3943eb804, type: 3}

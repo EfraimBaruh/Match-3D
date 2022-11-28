@@ -1,2 +1,2 @@
 # Match-3D
- match 3D for 8x8
+ Normal mesai saatlerime ek olarak vize üniversitedeki vize haftama denk geldiği için ancak sınırlı olarak case study e vakit ayırabildim. Anlayış ile karşılamanız umuduyla.
